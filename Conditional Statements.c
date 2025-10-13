@@ -18,7 +18,7 @@ int main(){
     
     int i;
     scanf("%d", &i);
-    if(i > 1 && i < 1000000000){
+    if(i > 0 && i < 1000000000){
         if(i == 1){
             printf("one\n");
         }
