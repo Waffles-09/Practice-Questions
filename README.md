@@ -1,2 +1,2 @@
 # Practice-Questions
-Solving questions on different coding platforms such as Leetcode, HankerRank, HakerEarth and so 
+Practicing basic questions on different coding platforms such as LeetCode, HackerRank, HackerEarth, and so.
